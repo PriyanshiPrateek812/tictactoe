@@ -1,2 +1,3 @@
-I have created a Tic Tac Toe using MiniMax Algorithm.
+# Tic Tac Toe using MiniMax Algorithm.
+<br>
 The is in C++.
